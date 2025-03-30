@@ -1,2 +1,3 @@
-для запуска использовать docker-compose up --build
-для тестов docker-compose run --rm app sh -c "PYTHONPATH=. pytest tests/"
+Для запуска использовать **docker-compose up --build**
+
+Для тестов **docker-compose run --rm app sh -c "PYTHONPATH=. pytest tests/"**
